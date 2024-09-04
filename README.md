@@ -1,3 +1,4 @@
+<div align=center>
 # 💫 About Me:
 🔭 I’m currently working on building my own saas website builder.<br>🤝 I’m looking for help with developing my very own frontend component library.<br>🌱 I’m currently learning and developing with nextjs.<br>⚡ Fun fact I keep most of my projects private. 
 
@@ -21,5 +22,5 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shreykc1) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
