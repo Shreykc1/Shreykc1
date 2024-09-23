@@ -1,5 +1,5 @@
 <div align=center>
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on building my own saas website builder.<br>🤝 I’m looking for help with developing my very own frontend component library.<br>🌱 I’m currently learning and developing with nextjs.<br>⚡ Fun fact I keep most of my projects private. 
 
 
